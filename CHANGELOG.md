@@ -7,11 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.2] - 2024-05-25
+
 ## [0.0.1] - 2024-05-25
 
 ### Added
 
 - Initial Commit
 
-[unreleased]: https://github.com/ellomenop/Hades2-RealWorldClock/compare/0.0.1...HEAD
+[unreleased]: https://github.com/ellomenop/Hades2-RealWorldClock/compare/0.0.2...HEAD
+[0.0.2]: https://github.com/ellomenop/Hades2-RealWorldClock/compare/0.0.1...0.0.2
 [0.0.1]: https://github.com/ellomenop/Hades2-RealWorldClock/compare/58af67607d56666c356cc4b0539e3d47e842f268...0.0.1
