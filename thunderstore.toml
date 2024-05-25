@@ -7,7 +7,7 @@ namespace = "ellomenop"
 name = "RealWorldClock"
 versionNumber = "0.0.1"
 description = "Shows the current real world time in-game"
-websiteUrl = "https://github.com/ellomenop/Hades2-DontGetVorimed"
+websiteUrl = "https://github.com/ellomenop/Hades2-RealWorldClock"
 containsNsfwContent = false
 
 [package.dependencies]
