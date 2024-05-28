@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+
+- Fixed bug in formatting that made clock look 2 hours off when past noon
+
 ## [0.0.2] - 2024-05-25
 
 ## [0.0.1] - 2024-05-25
