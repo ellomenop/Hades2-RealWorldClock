@@ -74,7 +74,7 @@ function UpdateClock()
 
     createOverlayLine(
         "Clock",
-        os.date(" %I:%M %p",os.time()):gsub(" 0",""):gsub("%s+1", "1"):lower(),
+        os.date((config.hourFormat and {" %I:%M %p"} or {"%H:%M"})[1],os.time()):gsub(" 0",""):gsub("%s+1", "1"):lower(),
         MergeTables(
             UIData.CurrentRunDepth.TextFormat,
             {
